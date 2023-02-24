@@ -5,3 +5,5 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 My name is Sergey Firsov, I develop games and various utilities in my spare time.
+
+![MyWorks](/assets/img/my_works.png)
